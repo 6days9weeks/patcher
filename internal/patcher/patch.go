@@ -14,7 +14,7 @@ const (
 )
 
 const (
-	IPA_URL    = "https://github.com/enmity-mod/tweak/blob/main/Discord.ipa?raw=true"
+	IPA_URL    = "https://cdn.discordapp.com/attachments/1015971724895989780/1031357912880271360/Discord_150.0.ipa"
 	ICONS_URL  = "https://files.enmity.app/icons.zip"
 )
 
